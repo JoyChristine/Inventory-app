@@ -23,7 +23,7 @@ var items = []
 var categories = []
 
 var itemsToAdd = [
-    ['Apples', 'One a day keeps the doctor away', '0.49', 500, 'produce'],
+
     ['Pears', 'Round and juicy', '0.59', 300, 'produce'],
     ['Bananas', 'Monkey see, monkey eat', '0.29', 200, 'produce'],
     ['Spinach', 'Popeyes favourite', '2.99', 100, 'produce'],
