@@ -51,3 +51,6 @@ ItemSchema
     .get(function() {
         return '$' + this.price;
     });
+
+//Export model
+module.exports = mongoose.model('Item', ItemSchema);
